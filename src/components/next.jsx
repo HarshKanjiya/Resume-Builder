@@ -31,7 +31,12 @@ const Next = ({ value }) => {
     // Doc.createPdf(ref.current);
     let ele = document.querySelector("#asd");
     savePDF(ele, {
+      fileName:"resume.pdf",
       paperSize: "A4",
+      keepTogether: true,
+      margin:10,
+      
+      scale:0.7,
     });
     // if (ref.current) {
     //   ref.current.save();
