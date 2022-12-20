@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;  
+}
+a {
+  text-decoration: none;
+  color: #232323;
+}
+
+.App{
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background-image: linear-gradient(120deg ,#bbd2c5, #536976, #292e49 ) ;
+}
+.form{
+  padding: 2rem 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  border: 1px solid #b6b6b6;
+  border-radius: 11px;
+  background-image: linear-gradient(120deg, rgba(0,0,0,0.3), rgba(0,0,0,0.4) );
+}
+
+.form > .form-ele{
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+
+input, textarea{
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border: 1px solid #e3e3e3;
+  border-radius: 5px;
+  padding: 0.7rem 1rem;
+  color:#343434;
+  box-shadow: 4px 4px 17px rgba(0,0,0,0.05);
+}
+
+#fileinput{
+  display: none;
+}
+.fileinput-label{
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border: 1px solid #e3e3e3;
+  border-radius: 5px;
+  padding: 0.7rem 1rem;
+  color:#343434;
+  box-shadow: 4px 4px 17px rgba(0,0,0,0.07);
+}
