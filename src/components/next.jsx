@@ -61,7 +61,7 @@ const Next = ({ value }) => {
         ref={ref}
         >
           <Header>
-            <img src={Profile} alt="" />
+            <img src={value.img} alt="" />
             <div>
               <p> {value.name}</p>
               <p className="prof"> {value.profession}</p>
@@ -196,7 +196,7 @@ const PDFBTN = styled.div`
   &:hover {
     box-shadow: 0 0px 19px rgba(0, 0, 0, 0.15);
     color: white;
-    background-color: #5f5f5f;
+    background-color: #232323;
   }
 `;
 const Wrapper = styled(motion.div)`
