@@ -3,8 +3,8 @@
 ## Tech Stack
 HarshKanjiya/Resume-Builder is built on the following main stack:
 
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - [styled-components](https://styled-components.com) – JavaScript Framework Components
 - [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
@@ -17,8 +17,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 HarshKanjiya/Resume-Builder is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/6749/styled-components.png' alt='styled-components'/> [styled-components](https://styled-components.com) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [HarshKanjiya/Resume-Builder](https://github.com/HarshKanjiya/Resume-Builder)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|01/05/24 <br/>Report generated|
+|14<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -127,7 +127,7 @@ Full tech stack [here](/techstack.md)
 |[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.0.9|12/20/22|Harsh Kanjiya |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|12/20/22|Harsh Kanjiya |MIT|N/A|
 |[react-router-dom](https://www.npmjs.com/react-router-dom)|v6.4.5|12/20/22|Harsh Kanjiya |MIT|N/A|
-|[vite](https://www.npmjs.com/vite)|v4.0.1|12/20/22|Harsh Kanjiya |N/A|[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
+|[vite](https://www.npmjs.com/vite)|v4.0.1|12/20/22|Harsh Kanjiya |N/A|[CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High)<br/>[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
 
 <br/>
 <div align='center'>
